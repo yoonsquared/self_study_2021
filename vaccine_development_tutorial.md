@@ -1,6 +1,4 @@
-```
-Ninja Nerd - https://www.youtube.com/watch?v=35Idb_lCU4o
-```
+[Ninja Nerd youtube link](https://www.youtube.com/watch?v=35Idb_lCU4o)
 
 # Vaccine Development
 - I. Safety
