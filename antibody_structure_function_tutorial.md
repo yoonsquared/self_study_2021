@@ -131,10 +131,7 @@ The shift from IgM -> IgG **isotype switching**
     - Vaccines and Booster shots
 
 # Antibody Structure
-```{r, echo=FALSE}
-url <- https://microbiologyinfo.com/wp-content/uploads/2015/05/Structure-of-Antibody2.jpg
-```
-![](`r url`)
+![image](https://microbiologyinfo.com/wp-content/uploads/2015/05/Structure-of-Antibody2.jpg`)
 
 
 - Constant Heavy Chain C_H
