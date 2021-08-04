@@ -187,7 +187,7 @@ Ninja Nerd - https://www.youtube.com/watch?v=35Idb_lCU4o
 
     - **severe symptom**: 100% efficacy against severity.
 
-- Storage/Temperature: Vaccine viable at 36~46 Farenheit, 2.2~7.8 Celcius
+- Storage/Temperature: Vaccine viable at 36-46 Farenheit, 2.2-7.8 Celcius
 
 - number of vaccines to be produced: 3 billion vaccines produced by end of 2021. If **0.5 + 1 dose** is viable, 4.5 billion units possible.
 
