@@ -143,7 +143,7 @@ Ninja Nerd - https://www.youtube.com/watch?v=35Idb_lCU4o
 
 - Results: Efficacy of 2 end points.
 
-    - **against the disease**: $\frac{(185-11)}{185}$*100 = 94.5%
+    - **against the disease**: $$\frac{(185-11)}{185}$$*100 = 94.5%
 
     - **severe symptom**: 100%-0%= 100% efficacy against severity.
 
@@ -161,9 +161,9 @@ Ninja Nerd - https://www.youtube.com/watch?v=35Idb_lCU4o
 
 - Results: Efficacy of 2 end points.
 
-    - **against the disease**: $\frac{(162-8)}{162}$*100 = 94.5%
+    - **against the disease**: $$\frac{(162-8)}{162}$$*100 = 94.5%
 
-    - **severe symptom**: 100%-$\frac{1}{8}%= 87.5% efficacy against severity.
+    - **severe symptom**: 100%-$$\frac{1}{8}$$%= 87.5% efficacy against severity.
 
 - **Storage/Temperature: Vaccine viable at -94 Farenheit, -70 Celcius**
 
