@@ -1,4 +1,4 @@
-[Ninja Nerd youtube link] https://youtu.be/zg61a3BoR8Y
+[Ninja Nerd youtube link](https://youtu.be/zg61a3BoR8Y)
 
 # immune system study - antibody structure and function
 
