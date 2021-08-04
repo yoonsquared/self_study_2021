@@ -150,7 +150,7 @@ The complement proteins bind to the C_H
 
 the Variable regions differ for each antibody.
 
-    - differentiate for antigens.
+- differentiate for antigens.
 
 One antibody has 2 antigen binding sites.
 
