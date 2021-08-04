@@ -1,6 +1,6 @@
 # Snakemake workflow management.
 ## Testing in RNA-seq 
-> youtube address: https://www.youtube.com/watch?v=_wUGzqEjg6A
+[Alex Soupir youtube link](https://www.youtube.com/watch?v=_wUGzqEjg6A)
 
 ### snakefile.py
 ```
