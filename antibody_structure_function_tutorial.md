@@ -1,4 +1,4 @@
-[Ninja Nerd youtube link](https://youtu.be/zg61a3BoR8Y)
+[Ninja Nerd youtube link] https://youtu.be/zg61a3BoR8Y
 
 # immune system study - antibody structure and function
 
@@ -131,7 +131,6 @@ The shift from IgM -> IgG **isotype switching**
 
 # Antibody Structure
 ![image](http://microbiologyinfo.com/wp-content/uploads/2015/05/Structure-of-Antibody2.jpg)
-
 
 - Constant Heavy Chain C_H
 

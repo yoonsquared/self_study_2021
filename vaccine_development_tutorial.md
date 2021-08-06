@@ -61,7 +61,7 @@
 
 ### I. Moderna and Pfizer/Biontech {mRNA vaccine}
 
-- lipid nanoparticles wrapping the mRNA: acts as a vehicle to transport the mRNA into the cell; lipid-bilayer
+- lipid nanoparticles wrapping the mRNA (lipid-bilayer): acts as a vehicle to transport the mRNA into the cell
 
 - Taking the S protein to find the mRNA, and incorporate that into the lipid nanoparticle.
 
@@ -97,7 +97,7 @@
 
         - tons of immune response.
 
- #### MHC-I complex response 
+ #### MHC-I complex response (CD8 related)
 
 - **Cytotoxic T-cells (T_CX)** interacts with the **MHC-I** with its TCR, which releases destructive molecules that destroy host cells  
 
