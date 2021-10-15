@@ -23,4 +23,4 @@ conda deactivate
 ```
 
 ![image](https://i.imgur.com/vhQLQBn.png)
-##### imgur image.
+###### image from imgur
