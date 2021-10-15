@@ -21,3 +21,6 @@ conda activate tf
 # deactivate conda env
 conda deactivate
 ```
+
+![image](https://i.imgur.com/vhQLQBn.png)
+##### imgur image.
