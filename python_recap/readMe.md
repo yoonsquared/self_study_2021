@@ -1,11 +1,13 @@
 # Re-learning python.
 
 ## Learning links:
-```
-Jocoding: https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding
-dataprofessor: https://www.youtube.com/c/DataProfessor
-codingapple: https://www.youtube.com/channel/UCSLrpBAzr-ROVGHQ5EmxnUg
-```
+
+- [Jocoding](https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding)
+
+- [dataprofessor](https://www.youtube.com/c/DataProfessor)
+
+- [codingapple](https://www.youtube.com/channel/UCSLrpBAzr-ROVGHQ5EmxnUg)
+
 
 ## make new conda environment called tf, and install packages, activate conda and run programs.
 ### so far, after installing anaconda, I had to conda install *pandas, tensorflow*
