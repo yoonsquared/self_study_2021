@@ -1,4 +1,11 @@
 # 대학원 합격 예측 프로그램
+# conda가 필요하기 때문에 anaconda prompt를 사용.
+'''
+conda activate tf
+cd  Documents\python_analysis\Jocoding
+python tensor_lecture3.py
+'''
+
 
 import pandas as pd
 # 엑셀데이터 다룰떄 가장 많이 쓰이는 pandas library
