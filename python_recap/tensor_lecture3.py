@@ -6,7 +6,6 @@ cd  Documents\python_analysis\Jocoding
 python tensor_lecture3.py
 '''
 
-
 import pandas as pd
 # 엑셀데이터 다룰떄 가장 많이 쓰이는 pandas library
 
