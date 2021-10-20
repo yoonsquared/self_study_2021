@@ -8,6 +8,7 @@
 
 - [codingapple](https://www.youtube.com/channel/UCSLrpBAzr-ROVGHQ5EmxnUg)
 
+- [tensorFLow_7hr](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 
 ## make new conda environment called tf, and install packages, activate conda and run programs.
 ### so far, after installing anaconda, I had to conda install *pandas, tensorflow*
