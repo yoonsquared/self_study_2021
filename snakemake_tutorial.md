@@ -12,7 +12,7 @@ SRR,FRR = glob_wildcards("rawReads/{sra}_{frr}.fastq")
 
 rule all:
     input:
-        expand("rawQC/{sra}_{frr}_fastqc.{extension",sra=SRA,frr=FRR, extension=["zip","html"]})
+        expand("rawQC/{sra}_{frr}_fastqc.{extension}",sra=SRA,frr=FRR, extension=["zip","html"])
         expand("starAligned/{sra}Aligned.sortedByCoord.out.bam",sra=SRA)
 
 rule rawFastqc:
