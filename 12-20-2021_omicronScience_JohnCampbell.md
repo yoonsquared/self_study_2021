@@ -1,8 +1,8 @@
 # John Campbell
 ## First Omicron Science by **CHAN group** in Hong Kong Univ.
-```
-https://www.youtube.com/watch?v=84XMFVcLScw
-```
+
+Link to the video: https://www.youtube.com/watch?v=84XMFVcLScw
+
 
  - large replications in the bronchial passages rather than the lung tissue itself.
 
