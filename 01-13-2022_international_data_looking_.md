@@ -1,4 +1,5 @@
 # 01-13-2022_international_data_looking_good
+link: https://www.youtube.com/watch?v=TrVGymR-jFU
 ## Reduction of Delta as Omicron increases. Netherlands.
 The actual hospital cases are much better than the most optimistic prediction of December.
 
@@ -58,3 +59,12 @@ The Long term immune effects are from the T-Cells.
 
 Most of the vaccines went for the antibodies, but not the T-Cells, so many that's the future?
 
+## Data from India
+
+"Most infectious respiratory virus in history."
+
+- More than Measles (if somebody in the room has it, 90% will get it)
+
+- x3 to x5 infectious than Delta
+
+- Vaccines will not prevent infections, but does protect against severe disease.
