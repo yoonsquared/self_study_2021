@@ -51,7 +51,7 @@ This is comparable to **Delta N = 16,982**.
 
 - The COVID-19 cross-immunity is proved for SARS-CoV-2
 
-**protecting SARS-CoV-2-naiive variants.**
+**protecting SARS-CoV-2-naive variants.**
 
 - thereby supporting the inclusion of non-spike antigens in second-generation vaccines.
 
