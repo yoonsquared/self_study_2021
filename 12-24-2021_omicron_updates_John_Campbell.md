@@ -1,6 +1,9 @@
 # 12-24~27-2021_omicron_updates_John_Campbell
 [DEC24](https://www.youtube.com/watch?v=4qzKh_S4Qs0)
+
 [DEC25](https://www.youtube.com/watch?v=wBQWNbJG1q8&t=838s)
+
+[DEC27](https://www.youtube.com/watch?v=n5uzrn4e0Wg&t=586s)
 
 ## UK
 Hospitalizations and death in UK
