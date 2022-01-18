@@ -1,4 +1,6 @@
 # 01-18-2022_John_Campbell_vaccination_advice_in_the_age_of_omicron
+[Video link](https://www.youtube.com/watch?v=7QVAXZPNaMI)
+
 - Everyone ages 5 and older **CAN** get vaccinated against COVID-19.
 
 - Two doses at least 12 weeks apart. (Or 12 weeks after a positive covid test)
