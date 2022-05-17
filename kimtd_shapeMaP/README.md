@@ -1,6 +1,9 @@
 # This is a report made for TD Kim.
 ## Image files
 ### 6-pfu-files
+#### 6-pfu-log
+[Imgur](https://i.imgur.com/a37ASSU.png)
+
 #### 6-pfu-sequence
 [Imgur](https://i.imgur.com/6EVpOcU.png)
 
@@ -17,6 +20,9 @@
 [Imgur](https://i.imgur.com/I1rIbm0.png)
 
 ### 4-Q5-files
+#### 4-Q5-log
+[Imgur](https://i.imgur.com/XPWDQmt.png)
+
 #### 4-Q5-sequence
 [Imgur](https://i.imgur.com/tGFHNh2.png)
 
