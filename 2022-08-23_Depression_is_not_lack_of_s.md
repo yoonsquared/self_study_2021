@@ -1,4 +1,4 @@
-# 2022_08_23_Depression_is_not_lack_of_seratonin_John_Campbell
+# 2022-08-23_Depression_is_not_lack_of_seratonin_John_Campbell
 (UK, July 2022)
 
  https://www.nature.com/articles/s4138...
