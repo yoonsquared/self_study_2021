@@ -31,7 +31,7 @@ link: https://www.sciencedirect.com/science/article/abs/pii/S0168165611005517
 
 > Unraveling the Chinese hamster ovary cell line transcriptome by next-generation sequencing. 	Becker J et al. J Biotechnol (2011) 156, 227-235
 
-TSA: https://www.ncbi.nlm.nih.gov/nuccore?term=66543%5BBioProject%5D [link broken]
+TSA: https://www.ncbi.nlm.nih.gov/nuccore?term=66543%5BBioProject%5D
 
 > Into the unknown: expression profiling without genome sequence information in CHO by next generation sequencing. 	Birzele F et al.  Nucleic Acids Res (2010) 38, 3999-4010
 
