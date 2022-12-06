@@ -1,7 +1,7 @@
 # 2022-12-05_CHOgenomeORG_data_resources
-> latest update is in January 27, 2021
+## latest update is in January 27, 2021 
 
-chogenome.org 2.1
+> chogenome.org 2.1
 
 ## features
 
