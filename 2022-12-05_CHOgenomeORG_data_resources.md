@@ -86,7 +86,7 @@ link: https://chogenome.org/files/CH_PICR_GO_terms_Apr2021.csv
 
 link : https://escholarship.org/content/qt6cn1b1j4/qt6cn1b1j4_noSplash_de899e9a5f2276d96ccb0c1695f4a0ce.pdf?t=qx78ac
 
-**Redefined** a lot of the *TSS and gene annotation errors* previously estimated computationally (the aforementioned RefSeq and GeneBank assemblies).
+**Redefined** a lot of the *TSS and gene annotation errors* previously estimated computationally (the aforementioned RefSeq and GeneBank assemblies). Validation with CRISPR on *Mgat3* gene.
 
 ## Data resources
 
