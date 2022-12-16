@@ -11,7 +11,7 @@
 
 3. GitHub - mariodosreis/tai: The tRNA adaptation index
 
-## 2. Structure dot bracket으로 보기로 한 이유 
+## 2. Structure comparison (why dot bracket?)
 
 > Priority level MID
 
@@ -25,13 +25,13 @@ https://academic.oup.com/nar/article/42/10/6146/2436561
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5860439/pdf/btx704.pdf
 
-## 3. 권오성 프로님 요청 [Figure 4] - **Kim pro**
+## 3. Kwon pro request [Figure 4] - **Kim pro**
 
 > Priority level MID
 
 https://www.pnas.org/doi/10.1073/pnas.1908052116
 
-## 4. UTR selection 알고리즘 
+## 4. UTR selection algorithm 
 
 > Priority level HIGH
 
@@ -39,7 +39,7 @@ https://www.pnas.org/doi/10.1073/pnas.1908052116
 
 - Regression using R - statistical approach
 
-- Regression but slope 찾을때 tensorflow - ML approach
+- Regression but 'best fit slope' using tensorflow - ML approach
 
 - Things to consider:
 
@@ -92,6 +92,8 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008982
 ## 9. Database - **Kim pro**
 
 > Priority level HIGH
+
+Data cleaning + update
 
 ## 10. 22 4Q report - **Everyone**
 
