@@ -1,6 +1,8 @@
 # 2022-12-23_insilico_to-do_list
 > update from 12-15
+
 > re-update on 12-23
+ 
 > last update on 12-27
 
 > This document is not written in stone and is for record purposes. *R&R and specifics can always change.* 
